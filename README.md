@@ -8,8 +8,11 @@
 - 🔍 Exploring problem-solving on [LeetCode](https://leetcode.com/chetanr25/) in **Python**
 
 <br>
-
+<a href="https://www.leetcode.com/chetanr25">
+  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/chetanr25?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap)
+
+</a>
 
 <br>
 
