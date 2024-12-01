@@ -1,5 +1,8 @@
-<h2 align="center">Hi 👋! I'm Chetan</h2>
-<h4 align="center">A Flutter Developer from India 🇮🇳</h4>
+<h2 align="center">Hi 👋! I'm Chetan.<br> Developer from India 🇮🇳</h2>
+
+<p align="center">
+<a href="https://wakatime.com/@3b0327f2-aa69-4362-a1d9-116ee6d92e3a"><img src="https://wakatime.com/badge/user/3b0327f2-aa69-4362-a1d9-116ee6d92e3a.svg" width="300" alt="Total time coded since Oct 10 2024" /></a>
+</p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -11,10 +14,11 @@
 - 🔍 Exploring problem-solving on [LeetCode](https://leetcode.com/chetanr25/) in **Python**
 
 <br>
-<a href="https://www.leetcode.com/chetanr25">
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/chetanr25?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap)
 
+<a href="https://www.leetcode.com/chetanr25">
+  <div style="width: 500"> <!-- Adjust the width as needed -->
+    <img src="https://leetcard.jacoblin.cool/chetanr25?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap" style="width: 100%;">
+  </div>
 </a>
 
 <br>
