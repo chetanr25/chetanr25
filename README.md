@@ -1,6 +1,9 @@
 <h2 align="center">Hi 👋! I'm Chetan</h2>
 <h4 align="center">A Flutter Developer from India 🇮🇳</h4>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h2>About Me</h2>
 
 - 👨🏻‍💻 Passionate **Flutter** developer
