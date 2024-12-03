@@ -17,6 +17,8 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           IGNORED_LANGUAGES: YAML JSON TOML TypeScript JavaScript Git Config
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics (automated)
+          LANG_COUNT: 3
+          
           
           
           
