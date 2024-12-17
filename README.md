@@ -43,11 +43,11 @@
 </div>
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/chetanr25">
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=chetanr25&theme=dark&locale=en" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://wakatime.com/@chetanr25">
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chetanr25&langs_count=6&theme=dark&locale=en#gh-dark-mode-only" />
 </a>
 
