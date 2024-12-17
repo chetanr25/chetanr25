@@ -13,8 +13,8 @@
 </h2>
 
 - 👨🏻‍💻 Passionate **Flutter** developer
-- 💬 Ask me about **Google Apps Script, Firebase**, or Golang
-- 🔍 Exploring problem-solving on [LeetCode](https://leetcode.com/chetanr25/) in **Python**
+- 💬 Ask me about **Google Apps Script, Firebase**
+- 🔍 Exploring problem-solving on [LeetCode](https://leetcode.com/chetanr25/)
 
 <br>
 
