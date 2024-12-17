@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋! I'm Chetan.<br> Developer from India 🇮🇳</h2>
-
 <p align="center">
 <a href="https://wakatime.com/@3b0327f2-aa69-4362-a1d9-116ee6d92e3a"><img src="https://wakatime.com/badge/user/3b0327f2-aa69-4362-a1d9-116ee6d92e3a.svg" width="300" alt="Total time coded since Oct 10 2024" /></a>
 </p>
@@ -26,8 +25,14 @@
 
 <h3>Connect with Me</h3>
 <div align="left">
+
+<a href="https://linktr.ee/chetanr25"> 
+   <img src="https://github.com/user-attachments/assets/59432b27-bddb-4d8a-a2a2-903bc78168c2" height="35" alt="Linktre" />
+  </a>
   <a href="https://www.linkedin.com/in/chetanr25">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+      <br/>
+
   </a>
   <a href="mailto:chetan250204@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
@@ -35,12 +40,16 @@
   <a href="https://x.com/chetanr25">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X" />
   </a>
-
-<a href="https://linktr.ee/chetanr25"> 
-   <img src="https://github.com/user-attachments/assets/59432b27-bddb-4d8a-a2a2-903bc78168c2" height="35" alt="Linktre" />
-  </a>
 </div>
 <br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=chetanr25&theme=dark&locale=en" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chetanr25&langs_count=6&theme=dark&locale=en#gh-dark-mode-only" />
+</a>
 
 <h3>Tech Stack</h3>
 <div align="left">
