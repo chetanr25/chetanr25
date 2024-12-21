@@ -17,40 +17,32 @@
 
 <br>
 
-<!--
 <a href="https://www.leetcode.com/chetanr25">
     <img src="https://leetcard.jacoblin.cool/chetanr25?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap">
 </a>
---->
+<h3>Connect with Me</h3>
+<div align="left">
+<a href="https://linktr.ee/chetanr25"> 
+   <img src="https://github.com/user-attachments/assets/59432b27-bddb-4d8a-a2a2-903bc78168c2" height="35" alt="Linktre" />
   </a>
-<br/>
+  <a href="https://www.linkedin.com/in/chetanr25">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+      <br/>
+  </a>
+  <a href="mailto:chetan250204@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://x.com/chetanr25">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X" />
+  </a>
+</div>
+<br>
 <a href="https://github.com/chetanr25">
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=chetanr25&theme=dark&locale=en" />
 </a>
-
 <a href="https://wakatime.com/@chetanr25">
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chetanr25&langs_count=6&theme=dark&locale=en#gh-dark-mode-only" />
 </a>
-
-<h3>Connect with Me</h3>
-<a href="https://linktr.ee/chetanr25">
-  <img src="https://github.com/user-attachments/assets/59432b27-bddb-4d8a-a2a2-903bc78168c2" height="35" alt="Linktree" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/chetanr25">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:chetan250204@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/chetanr25">
-  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X" />
-</a>
-
-<br/>
-
 
 <h3>Tech Stack</h3>
 <div align="left">
@@ -66,4 +58,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Golang logo" />
 </div>
-
