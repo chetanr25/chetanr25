@@ -56,5 +56,4 @@
   <img width="12" />
   <img src="https://i.ibb.co/DQ4QxzM/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f662f66.png" height="35" alt="Google Apps Script logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Golang logo" />
 </div>
