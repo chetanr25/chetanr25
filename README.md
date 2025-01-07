@@ -17,7 +17,7 @@
 
 <br>
 
-<a href="https://www.leetcode.com/chetanr25">
+<a href="https://www.leetcode.com/chetanr25" target="_blank">
     <img src="https://leetcard.jacoblin.cool/chetanr25?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap">
 </a>
 <h3>Connect with Me</h3>
