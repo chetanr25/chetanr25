@@ -30,13 +30,18 @@
       <br/>
   </a>
   <a href="mailto:chetan250204@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+
+    
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href="https://x.com/chetanr25">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X" />
   </a>
 </div>
 <br>
+
+![](https://komarev.com/ghpvc/?username=chetanr25)
+
 <a href="https://github.com/chetanr25">
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=chetanr25&theme=dark&locale=en" />
 </a>
