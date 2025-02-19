@@ -53,6 +53,10 @@
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chetanr25&langs_count=6&theme=dark&locale=en#gh-dark-mode-only" />
 </a>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <h3>Tech Stack</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter logo" />
