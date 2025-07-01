@@ -23,7 +23,7 @@
 - Email: [chetan250204@gmail.com](mailto:chetan250204@gmail.com)
 - Linkedin: [linkedin/chetanr25](https://www.linkedin.com/in/chetanr25)
 - Linktree: [linktr.ee/chetanr25](https://linktr.ee/chetanr25)
-
+<br>Or just google [chetanr25 on Google](https://www.google.com/search?q=chetanr25)
 <br/>
 
 <div align="center">
