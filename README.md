@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! I'm Chetan.<br> Developer from India 🇮🇳</h2>
 <p align="center">
-<a href="https://wakatime.com/@3b0327f2-aa69-4362-a1d9-116ee6d92e3a"><img src="https://wakatime.com/badge/user/3b0327f2-aa69-4362-a1d9-116ee6d92e3a.svg" width="300" alt="Total time coded since Oct 10 2024" /></a>
+<a href="https://wakatime.com/@chetanr25"><img src="https://wakatime.com/badge/user/3b0327f2-aa69-4362-a1d9-116ee6d92e3a.svg" width="300" alt="Total time coded since Oct 10 2024" /></a>
 
     
 </p>
