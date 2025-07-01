@@ -18,13 +18,30 @@
 - 👨🏻‍💻 Passionate **Flutter** developer
 - 💬 Ask me about **Google Apps Script, Firebase**
 
+
+### Reach out to me
+- Email: [chetan250204@gmail.com](mailto:chetan250204@gmail.com)
+- Linkedin: [linkedin/chetanr25](https://www.linkedin.com/in/chetanr25)
+- Linktree: [linktr.ee/chetanr25](https://linktr.ee/chetanr25)
+- Leetcode: [leetcode/chetanr25](https://leetcode.com/u/chetanr25/)
+- Devfolio: [devfolio.co/@chetanr25](https://devfolio.co/@chetanr25)
+
+<br/>
+
+<div align="center">
 <a href="https://github.com/chetanr25">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=chetanr25&theme=dark&locale=en" />
+  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=chetanr25&theme=dark&locale=en" />
 </a>
 <a href="https://wakatime.com/@chetanr25">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chetanr25&langs_count=6&theme=dark&locale=en#gh-dark-mode-only" />
+  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chetanr25&langs_count=6&theme=dark&locale=en#gh-dark-mode-only" />
 </a>
+<a href="https://www.leetcode.com/chetanr25">
+    <img width=350 src="https://leetcard.jacoblin.cool/chetanr25?theme=dark&font=ABeeZee&ext=heatmap">
+</a>
+</div>
 
+<div align="center">
+</div>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
@@ -33,19 +50,19 @@
 <h3>Connect with Me</h3>
 <div align="left">
 <a href="https://linktr.ee/chetanr25"> 
-   <img src="https://github.com/user-attachments/assets/59432b27-bddb-4d8a-a2a2-903bc78168c2" height="35" alt="Linktre" />
+   <img src="https://github.com/user-attachments/assets/59432b27-bddb-4d8a-a2a2-903bc78168c2" height="30" alt="Linktre" />
   </a>
   <a href="https://www.linkedin.com/in/chetanr25">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" />
 
   </a>
   <a href="mailto:chetan250204@gmail.com">
 
     
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail" />
   </a>
   <a href="https://x.com/chetanr25">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X" />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="X" />
   </a>
 </div>
 <br />
