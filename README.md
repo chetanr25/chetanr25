@@ -15,8 +15,8 @@
   
 </h2>
 
-- 👨🏻‍💻 Passionate **Flutter** developer
-- 💬 Ask me about **Google Apps Script, Firebase**
+- 👨🏻‍💻 Passionate **Backend** developer
+- 💬 Ask me about **Flutter, Python, FastAPI, Flask, Google Apps Script, Firebase**
 
 
 ### Reach out to me
