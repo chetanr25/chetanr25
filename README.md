@@ -63,20 +63,22 @@
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="X" />
   </a>
 </div>
+
 <br />
-<h3>Tech Stack</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30" alt="Firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img width="12" />
-  <img src="https://i.ibb.co/DQ4QxzM/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f662f66.png" height="35" alt="Google Apps Script logo" />
-  <img width="12" />
-</div>
+
+<!--  <h3>Tech Stack</h3>  -->
+<!-- <div align="left"> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30" alt="Firebase logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+<img src="https://i.ibb.co/DQ4QxzM/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f662f66.png" height="35" alt="Google Apps Script logo" /> -->
+<!-- <img width="12" /> -->
+<!-- <img width="12" /> -->
+<!-- <img width="12" /> -->
+<!-- <img width="12" /> -->
+<!-- <img width="12" /> -->
+<!-- </div> -->
 
 <br />
 
@@ -84,6 +86,3 @@
 
 
 ![](https://komarev.com/ghpvc/?username=chetanr25)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
