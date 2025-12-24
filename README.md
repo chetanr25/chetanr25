@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Chetan.<br> Developer from India 🇮🇳</h2>
+<h2 align="center">Hi 👋! I'm Chetan.</h2>
 <p align="center">
 <a href="https://wakatime.com/@chetanr25"><img src="https://wakatime.com/badge/user/3b0327f2-aa69-4362-a1d9-116ee6d92e3a.svg" width="300" alt="Total time coded since Oct 10 2024" /></a>
 
@@ -6,12 +6,7 @@
 </p>
 
 <h2>About Me
-    <a href="https://www.linkedin.com/in/chetanr25"> 
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="LinkedIn" /></a>
-   <a href="https://linktr.ee/chetanr25"> 
-   <img src="https://github.com/user-attachments/assets/59432b27-bddb-4d8a-a2a2-903bc78168c2" height="20" alt="Linktre" />
-       
-  </a>
+
   
 </h2>
 
@@ -27,23 +22,7 @@
 <br/>
 
 <div align="center">
-<a href="https://github.com/chetanr25">
-  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=chetanr25&theme=dark&locale=en" />
-</a>
-<a href="https://wakatime.com/@chetanr25">
-  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chetanr25&langs_count=6&theme=dark&locale=en#gh-dark-mode-only" />
-</a>
-<a href="https://www.leetcode.com/chetanr25">
-    <img width=350 src="https://leetcard.jacoblin.cool/chetanr25?theme=dark&font=ABeeZee&ext=heatmap">
-</a>
 </div>
-
-<div align="center">
-</div>
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 
 <h3>Connect with Me</h3>
 <div align="left">
