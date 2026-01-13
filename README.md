@@ -74,6 +74,23 @@ Delivered FHIR-compliant REST workflows in Flutter for healthcare data exchange.
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
+
+## GitHub Stats
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chetanr25&theme=github_dark" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chetanr25&theme=dark" alt="Repos Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chetanr25&theme=dark" alt="Most Commit Language" />
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chetanr25&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
+
 ## Tech Stack
 
 **Languages**
@@ -109,22 +126,6 @@ Delivered FHIR-compliant REST workflows in Flutter for healthcare data exchange.
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-## GitHub Stats
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chetanr25&theme=github_dark" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chetanr25&theme=dark" alt="Repos Per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chetanr25&theme=dark" alt="Most Commit Language" />
-</p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chetanr25&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
-
 ## Reach Out
 
 - Email: [chetan250204@gmail.com](mailto:chetan250204@gmail.com)
@@ -132,7 +133,7 @@ Delivered FHIR-compliant REST workflows in Flutter for healthcare data exchange.
 - Linktree: [linktr.ee/chetanr25](https://linktr.ee/chetanr25)
 <br>Or just google [chetanr25 on Google](https://www.google.com/search?q=chetanr25)
 
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
+---
 
 ## Connect with Me
 
