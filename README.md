@@ -45,30 +45,19 @@ I also build cross-platform applications with **Flutter** and have shipped produ
 
 <div align="left">
 
-**Oldowan Innovations** | Backend Engineer  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Oldowan Innovations** - Backend Engineer | <span style="vertical-align: bottom;"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="18" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="18" alt="FastAPI" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" height="18" alt="Django" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" height="18" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="18" alt="Docker" /></span>
 
 Building scalable APIs with Python (FastAPI, Django) deployed on AWS. Integrating S3, Supabase, Twilio, and Amazon Rekognition.
 
 ---
 
-**VSIX** | Application Developer |  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+**VSIX** - Application Developer | <span style="vertical-align: top;"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="18" alt="Flutter" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="18" alt="Firebase" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="18" alt="Dart" /></span>
 
 Built field sampler management app with Flutter, Firebase, and real-time scheduling.
 
 ---
 
-**MedCortico** | Flutter Developer Intern  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+**MedCortico** - Flutter Developer Intern | <span style="vertical-align: top;"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="18" alt="Flutter" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="18" alt="Firebase" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" height="18" alt="SQLite" /></span>
 
 Delivered FHIR-compliant REST workflows in Flutter for healthcare data exchange.
 
@@ -148,7 +137,7 @@ Delivered FHIR-compliant REST workflows in Flutter for healthcare data exchange.
 ## Connect with Me
 
 <p align="left">
-  <a href="https://linktr.ee/chetanr25"> 
+<a href="https://linktr.ee/chetanr25"> 
     <img src="https://github.com/user-attachments/assets/59432b27-bddb-4d8a-a2a2-903bc78168c2" height="28" alt="Linktree" />
   </a>
   &nbsp;
