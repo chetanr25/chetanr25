@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Hi,+I'm+Chetan+R;Backend+Engineer;Flutter+Developer;Building+Scalable+APIs;SIH+2025+Winner&center=true&size=30&width=500&height=50&duration=4000&pause=2000" />
+  <img src="https://readme-typing-svg.vercel.app/?lines=Hi,+I'm+Chetan+R;Backend+Engineer;Flutter+Developer;Building+Scalable+APIs;GSoC%2026%27%20at%20UN-OICT;SIH+2025+Winner&center=true&size=30&width=500&height=50&duration=4000&pause=2000" />
 </h1>
 
 <p align="center">
